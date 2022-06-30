@@ -1,0 +1,60 @@
+/*MyFirstWebPage Styles*/
+
+body {
+    width: auto;
+    height: auto;
+}
+
+nav {
+    width: 100%;
+    height: auto;
+    background-color: #dfdfdf;
+    border-style: solid;
+    border-color:red;
+}
+
+.nav-buttons {
+    display: inline-block;
+    width: 100px;
+    padding: 15px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+    background-color: #656565;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+aside {
+    float:left;
+    background-color: blue;
+    width: 29%;
+    height: 600px;
+}
+
+#side-1 {
+    height: 200px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: orange;
+}
+
+img {
+    width: 35%;
+    height: auto;
+}
+
+#side-2 {
+    height: 400px;
+    border-color: aqua;
+    border-style: solid;
+    border-width:5px;
+}
+
+section {
+    width: 70%;
+    height: 600px;
+    float: left;
+    background-color: aquamarine;
+
+}
